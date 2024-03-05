@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk melakukan analisis mendalam terhadap data yang berasa
 1. Clone repository ini ke komputer lokal Anda dengan menjalankan perintah berikut:
 
    ```shell
-   git clone 
+   git clone(https://github.com/Putannia/project-analysis-data/tree/main) 
 
 2. Pastikan lingkungan Python yang sesuai dan pustaka yang diperlukan terinstal. Anda dapat menginstal pustaka yang diperlukan dengan menjalankan perintah berikut:
 
